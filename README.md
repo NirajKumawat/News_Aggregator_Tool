@@ -1,4 +1,4 @@
-# 📰 The News Aggregator Tool
+# 📰 NewsAI: An AI-Powered Tool for News Aggregation and Insight Extraction
 
 A smart tool that lets you extract and understand content from multiple news articles — powered by AI.
 
